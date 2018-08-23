@@ -1,0 +1,17 @@
+{
+  "name": "resume-2018",
+  "private": true,
+  "description": "The resume of @kt3k",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kt3k/resume.git"
+  },
+  "author": "Yoshiya Hinosawa",
+  "homepage": "https://github.com/kt3k/resume#readme",
+  "devDependencies": {
+    "resume-cli": "^0.4.19"
+  }
+}
