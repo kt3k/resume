@@ -3,7 +3,9 @@
   "private": true,
   "description": "The resume of @kt3k",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "resume serve",
+    "pdf": "resume export resume.pdf",
+    "test": "resume test"
   },
   "repository": {
     "type": "git",
