@@ -6,13 +6,12 @@
     "email": "stibium121@gmail.com",
     "phone": "+81 (090) 1125-6507",
     "website": "https://kt3k.org",
-    "summary": "Working as a software engineer for 9 years. Contributing OSS software mainly in JavaScript/Node.js. Have created and published many OSS in github.",
+    "summary": "Working as a software engineer for 9 years. Contributing OSS software mainly in JavaScript/Node.js. Have created and published many OSS in github and registered them to npm, RubyGems and The Maven Central.",
     "location": {
       "address": "Kokubunji-shi Izumi-cho 3-4-1-708",
       "postalCode": "1850024",
       "city": "Tokyo",
-      "countryCode": "JP",
-      "region": "California"
+      "countryCode": "JP"
     },
     "profiles": [
       {
