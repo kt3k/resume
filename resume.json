@@ -6,7 +6,7 @@
     "email": "stibium121@gmail.com",
     "phone": "+81 (090) 1125-6507",
     "website": "https://kt3k.org",
-    "summary": "Working as a software engineer for 9 years.",
+    "summary": "Working as a software engineer for 9 years. Contributing OSS software mainly in JavaScript/Node.js. Have created and published many OSS in github.",
     "location": {
       "address": "Kokubunji-shi Izumi-cho 3-4-1-708",
       "postalCode": "1850024",
@@ -40,9 +40,9 @@
       "startDate": "2015-01-01",
       "summary": "Working as a freelancer. The main partners are Recruit Lifestyle Co.,Ltd, Recruit Technologies Co.,Ltd, CureApp, Inc.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Set up tens of repositories with modern frontend stack for many teams",
+        "Set up a modern CI infrastructure for frontend dev team of 20 - 30 members",
+        "Built the first working prototype of core project of a start up"
       ]
     },
     {
@@ -54,7 +54,7 @@
       "summary": "",
       "highlights": [
         "Replaced an in-house frontend MVC framework with a new stack",
-        "Started microservice architecture"
+        "Started decomposing large monolithic architecture into microservices"
       ]
     },
     {
@@ -65,22 +65,32 @@
       "endDate": "2012-03-31",
       "summary": "",
       "highlights": [
-        "Built many websites quickly",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Built many websites quickly"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "https://www.zyyx.jp/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "organization": "C3.js",
+      "position": "Co-maintainer",
+      "website": "https://c3js.org/",
+      "startDate": "2017-06-01",
+      "summary": "Open source chart library with more than 7000 github stars",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Renewed build pipeline, automated release process",
+	"Released a number of versions",
+        "Organizing the team communication"
+      ]
+    },
+    {
+      "organization": "deno",
+      "position": "Contributor",
+      "website": "https://github.com/denoland/deno",
+      "startDate": "2018-06-01",
+      "summary": "A secure TypeScript runtime on V8",
+      "highlights": [
+        "Contributed mainly on the build process",
+	"3rd contributor so far"
       ]
     }
   ],
@@ -123,7 +133,8 @@
         "puppeteer",
         "cypress",
         "enzyme",
-        "testdouble"
+        "testdouble",
+        "TDD"
       ]
     },
     {
@@ -142,14 +153,14 @@
       "keywords": [
 	"Declarative Pipeline",
 	"Multibranch Pipeline",
-	"Provisioning Jenkins"
+	"Provisioning Jenkins Server"
       ]
     },
     {
       "name": "CI services",
       "level": "Master",
       "keywords": [
-	"Circle CI 2.0",
+	"Circle CI (2.0)",
 	"Travis CI",
 	"Drone",
 	"Codecov",
